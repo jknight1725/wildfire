@@ -1,6 +1,4 @@
-//
-// Created by megan phillips on 2/6/21.
-//
+
 #include <vector>
 #include <iostream>
 #include "Color.h"

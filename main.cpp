@@ -8,7 +8,7 @@ constexpr size_t rows = 5;
 constexpr size_t cols = 5;
 
 void dfs(Screen &grid, int i, int j){
-    if(i>=rows-1 || i<0 || j>=cols-1 || j<0) return;
+    if(i>=rows || i<0 || j>=cols || j<0) return;
     Colors::change_color(grid[i][j].second);
     dfs(grid, i+1, j);
     draw(grid); std::cout << std::endl;

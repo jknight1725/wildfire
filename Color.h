@@ -1,6 +1,4 @@
-//
-// Created by megan phillips on 2/6/21.
-//
+
 #include <string>
 #ifndef WILDFIRE_COLOR_H
 #define WILDFIRE_COLOR_H

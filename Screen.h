@@ -1,6 +1,4 @@
-//
-// Created by megan phillips on 2/6/21.
-//
+
 #include "Color.h"
 #ifndef WILDFIRE_SCREEN_H
 #define WILDFIRE_SCREEN_H

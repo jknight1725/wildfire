@@ -15,5 +15,3 @@ Colors
 Constant expressions for ansi colors
 change_color(Color &color)
   advances the state of the current symbol
-
-
